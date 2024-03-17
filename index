@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>An Apology from the Heart</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+  }
+  header {
+    background-color: #ffcccc;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #cc6666;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #cc0000;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  }
+  nav {
+    background-color: #cc6666;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  .content {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+  }
+  .content h2 {
+    color: #cc0000;
+    border-bottom: 2px solid #cc0000;
+    padding-bottom: 10px;
+  }
+  .content p {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+  footer {
+    background-color: #ffcccc;
+    padding: 20px;
+    text-align: center;
+    border-top: 3px solid #cc6666;
+  }
+  footer p {
+    margin: 0;
+    font-size: 18px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>An Apology from the Heart</h1>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#reason">Reason</a>
+    <a href="#promise">Promise</a>
+    <a href="#forgiveness">Forgiveness</a>
+  </nav>
+  <div id="about" class="content">
+    <h2>About</h2>
+    <p>Jaan</p>
+    <p>We are two faces of a coin, inseparable. Just as one face can’t be without the other, I can’t be without you. I want you to know that I'm deeply sorry for my actions and the hurt they've caused you.</p>
+    <p>This isn't just a simple apology; it's a heartfelt confession of my remorse and regret for my behavior. I understand that words alone can't heal the wounds I've inflicted, but I hope they can serve as the first step towards rebuilding the trust and love we share.</p>
+  </div>
+  <div id="reason" class="content">
+    <h2>Reason</h2>
+    <p>I want to be completely honest with you about why I did what I did, but I also want to make it clear that I'm not making excuses for my actions. The truth is,  Meri Jaan ho ap, Mera Sara Jahan ho ap,  Meri Dunya ho. Mera Dil ho, Mera Sakoon ho ✨🥺</p>
+    <p>But regardless of the circumstances, I know that I hurt you, and for that, I am truly sorry.</p>
+  </div>
+  <div id="promise" class="content">
+    <h2>Promise</h2>
+    <p>I want to promise you that I'm committed to making things right.</p>
+    <p>I know that rebuilding trust takes time, and I'm willing to do whatever it takes to earn back your trust and love.</p>
+  </div>
+  <div id="forgiveness" class="content">
+    <h2>Forgiveness</h2>
+    <p>Meri Jaan, Please be my life; please be my soul, please be my love please be my everything... You cannot take all these and leave... I am empty without you...M not that much bad 🫠.</p>
+  </div>
+  <footer>
+    <p>With all my love and sincerity,</p>
+    <p>[Your Name]</p>
+  </footer>
+</body>
+</html>
